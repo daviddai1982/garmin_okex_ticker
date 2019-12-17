@@ -2,7 +2,7 @@ using Toybox.System as Sys;
 
 var okexApi = "https://www.okex.me";
 var cryptoSpotPriceURL = okexApi + "/api/spot/v3/instruments/BTC-USDT/ticker";
-var cryptoFuturePriceURL = okexApi + "/api/futures/v3/instruments/BTC-USD-191227/ticker";
+var cryptoFuturePriceURL = okexApi + "/api/futures/v3/instruments/BTC-USD-200327/ticker";
 var cryptoSwapPriceURL = okexApi + "/api/swap/v3/instruments/BTC-USD-SWAP/ticker";
 
 function isConnectionAvailable() {

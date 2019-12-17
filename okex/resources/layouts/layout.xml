@@ -1,18 +1,18 @@
 <layout id="MainLayout">
-    <label id="title" x="50%" y="10%" text="okex BTC报价器" font="Graphics.FONT_TINY" color="Graphics.COLOR_YELLOW" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="title" x="50%" y="10%" text="okex BTC 报价器" font="Graphics.FONT_TINY" color="Graphics.COLOR_YELLOW" justification="Graphics.TEXT_JUSTIFY_CENTER" />
     <label x="15%" y="20%" text="币币" font="Graphics.FONT_XTINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
     <label id="spot" x="40%" y="20%" font="Graphics.FONT_XTINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
-    <label id="spot_percent" x="76%" text="1.5%" y="20%" font="Graphics.FONT_XTINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
-    <label id="spot_high" x="36%" text="H:1111" y="30%" font="Graphics.FONT_XTINY" color="Graphics.COLOR_GREEN" justification="Graphics.TEXT_JUSTIFY_CENTER" />
-    <label id="spot_low" x="75%" text="L:2222" y="30%" font="Graphics.FONT_XTINY" color="Graphics.COLOR_RED" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="spot_percent" x="76%" text="---" y="20%" font="Graphics.FONT_XTINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="spot_high" x="36%" text="H:----" y="30%" font="Graphics.FONT_XTINY" color="Graphics.COLOR_GREEN" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="spot_low" x="75%" text="L:----" y="30%" font="Graphics.FONT_XTINY" color="Graphics.COLOR_RED" justification="Graphics.TEXT_JUSTIFY_CENTER" />
     <label x="15%" y="40%" text="季度" font="Graphics.FONT_XTINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
     <label id="future" x="40%" y="40%" font="Graphics.FONT_XTINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
-    <label id="future_high" x="36%" text="H:1111" y="50%" font="Graphics.FONT_XTINY" color="Graphics.COLOR_GREEN" justification="Graphics.TEXT_JUSTIFY_CENTER" />
-    <label id="future_low" x="75%" text="L:2222" y="50%" font="Graphics.FONT_XTINY" color="Graphics.COLOR_RED" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="future_high" x="36%" text="H:----" y="50%" font="Graphics.FONT_XTINY" color="Graphics.COLOR_GREEN" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="future_low" x="75%" text="L:----" y="50%" font="Graphics.FONT_XTINY" color="Graphics.COLOR_RED" justification="Graphics.TEXT_JUSTIFY_CENTER" />
     <label x="15%" y="60%" text="永续" font="Graphics.FONT_XTINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
     <label id="swap" x="40%" y="60%" font="Graphics.FONT_XTINY" color="Graphics.COLOR_WHITE" justification="Graphics.TEXT_JUSTIFY_CENTER" />
-    <label id="swap_high" x="36%" text="H:1111" y="70%" font="Graphics.FONT_XTINY" color="Graphics.COLOR_GREEN" justification="Graphics.TEXT_JUSTIFY_CENTER" />
-    <label id="swap_low" x="75%" text="L:2222" y="70%" font="Graphics.FONT_XTINY" color="Graphics.COLOR_RED" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="swap_high" x="36%" text="H:----" y="70%" font="Graphics.FONT_XTINY" color="Graphics.COLOR_GREEN" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+    <label id="swap_low" x="75%" text="L:----" y="70%" font="Graphics.FONT_XTINY" color="Graphics.COLOR_RED" justification="Graphics.TEXT_JUSTIFY_CENTER" />
     <label id="time" x="50%" y="80%" text="" font="Graphics.FONT_XTINY" color="Graphics.COLOR_YELLOW" justification="Graphics.TEXT_JUSTIFY_CENTER" />
 <!--     <bitmap id="id_monkey" x="center" y="80" filename="../drawables/monkey.png" /> -->
 </layout>

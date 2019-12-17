@@ -40,7 +40,7 @@ class okexView extends WatchUi.View {
 	
 //	hidden var okexApi = "https://www.okex.me";
 //	hidden var cryptoSpotPriceURL = okexApi + "/api/spot/v3/instruments/BTC-USDT/ticker";
-//	hidden var cryptoFuturePriceURL = okexApi + "/api/futures/v3/instruments/BTC-USD-191227/ticker";
+//	hidden var cryptoFuturePriceURL = okexApi + "/api/futures/v3/instruments/BTC-USD-200327/ticker";
 //	hidden var cryptoSwapPriceURL = okexApi + "/api/swap/v3/instruments/BTC-USD-SWAP/ticker";
 	
 	hidden var timerSwitch = false;
